@@ -17,11 +17,11 @@ This Java application simulates a cruise ship boarding system. It allows users t
 - Waiting list implemented as a circular queue with fixed capacity.
 
   ## Classes
-  CruiseshipBoardingSystem- Main class and displays the menu. 
-  CruiseShip- Manages the cruise ship cabins. 
-  Cabin- Represents a cabin with passengers. Each cabin can hold up to 3 passengers.
-  Passenger- Represents a passenger with first name, surname and expenses.
-  WaitingList- Implements the waiting list as a circular queue. 
+  - CruiseshipBoardingSystem- Main class and displays the menu. 
+  - CruiseShip- Manages the cruise ship cabins. 
+  - Cabin- Represents a cabin with passengers. Each cabin can hold up to 3 passengers.
+  - Passenger- Represents a passenger with first name, surname and expenses.
+  - WaitingList- Implements the waiting list as a circular queue. 
 
 ## Running the Application
   
